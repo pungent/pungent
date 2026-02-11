@@ -3,4 +3,4 @@ My name is pungent. I am currently learning fullstack development and im interes
 <br>
 <img  src="https://tryhackme-badges.s3.amazonaws.com/moderator.png" alt="THM Image Badge" />
 <br>
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,git,npm,postgres,linux,kali" />
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,git,npm,postgres,linux" />
