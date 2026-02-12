@@ -1,4 +1,4 @@
-My name is pungent. I am currently learning fullstack development and im interested in red teaming.
+My name is Pungent. I am currently learning fullstack development and I'm interested in red team activities.
 <br>
 <br>
 <img  src="https://tryhackme-badges.s3.amazonaws.com/moderator.png" alt="THM Image Badge" />
