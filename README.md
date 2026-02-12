@@ -1,4 +1,4 @@
 My name is Pungent. I am currently learning fullstack development and I'm interested in red team activities.
 <hr>
 <img  src="https://tryhackme-badges.s3.amazonaws.com/moderator.png" alt="THM Image Badge" />
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,npm,kali,postgres,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,npm,postgres,kali,linux,windows" />
